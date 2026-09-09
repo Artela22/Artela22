@@ -4,12 +4,14 @@
 
 ### ⚡ Hardware & Software Specialist
 
-**Building · Repairing · Automating · Creating**
+**Mastering the bridge between Hardware & Software**
 
-![Software](https://img.shields.io/badge/Software-Developer-6C63FF?style=for-the-badge)
-![Hardware](https://img.shields.io/badge/Hardware-Specialist-00C2FF?style=for-the-badge)
-![AI](https://img.shields.io/badge/AI-Automation-FF4ECD?style=for-the-badge)
-![IT](https://img.shields.io/badge/IT-Support-00C896?style=for-the-badge)
+<br>
+
+![Software](https://img.shields.io/badge/SOFTWARE-DEVELOPMENT-6C63FF?style=for-the-badge)
+![Hardware](https://img.shields.io/badge/HARDWARE-DIAGNOSTICS-00B8D9?style=for-the-badge)
+![AI](https://img.shields.io/badge/AI-AUTOMATION-FF4ECD?style=for-the-badge)
+![IT](https://img.shields.io/badge/IT-SUPPORT-00C896?style=for-the-badge)
 
 </div>
 
@@ -19,85 +21,101 @@
 
 Desarrollador y técnico enfocado en la integración de **software, hardware, electrónica e inteligencia artificial**.
 
-Me gusta crear soluciones completas: desde diagnosticar un equipo hasta desarrollar el sistema que automatiza el negocio.
+Me especializo en crear soluciones tecnológicas completas: desde el diagnóstico de hardware hasta el desarrollo de sistemas empresariales, automatizaciones y herramientas basadas en IA.
 
-> 💡 **Mastering the bridge between Hardware & Software.**
+> ⚡ **Build it. Diagnose it. Automate it.**
 
 ---
 
 ## 💻 Tech Stack
 
-<div align="center">
+### 👨‍💻 Desarrollo
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![C Sharp](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-F89820?style=flat-square)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+
+### 🗄️ Datos & Backend
+
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+
+### ⚙️ Herramientas
+
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-
-</div>
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Windows](https://img.shields.io/badge/Windows-0078D4?style=flat-square&logo=windows&logoColor=white)
 
 ---
 
-## 🔥 Proyectos
+# 🔥 Proyectos destacados
 
-### 🛠️ CRM para Talleres
-Sistema SaaS para gestionar:
+### 🔧 CRM / SaaS para Talleres
 
-`Clientes` · `Equipos` · `Reparaciones` · `Inventario` · `Pagos` · `Reportes`
+Sistema integral para talleres de reparación y centros de servicio técnico.
 
-### 🧾 Facturación Electrónica
-Sistema empresarial con:
+`Clientes` · `Equipos` · `Tickets` · `Diagnósticos` · `Presupuestos` · `Inventario` · `Pagos` · `Reportes`
 
-`POS` · `Facturas` · `Cotizaciones` · `Sucursales` · `Inventario` · `APIs`
+---
 
-### 🤖 AI Automation
-Bots inteligentes y agentes de IA para:
+### 🧾 Sistema de Facturación Electrónica
 
-`Automatización` · `Chatbots` · `APIs` · `Procesos empresariales`
+Plataforma empresarial con punto de venta y gestión fiscal.
+
+`POS` · `Facturación` · `Cotizaciones` · `Pagos` · `Inventario` · `Sucursales` · `APIs` · `Reportes`
+
+---
+
+### 🤖 Bots Inteligentes & Agentes de IA
+
+Automatización de procesos mediante inteligencia artificial y sistemas conversacionales.
+
+`AI Agents` · `Chatbots` · `Rasa` · `Python` · `FastAPI` · `APIs` · `PostgreSQL` · `Redis`
+
+---
 
 ### 🌐 Web Development
-Desarrollo de:
 
-`Websites` · `Landing Pages` · `Dashboards` · `Web Apps`
+Diseño y desarrollo de soluciones web modernas.
+
+`Websites` · `Landing Pages` · `Dashboards` · `Web Apps` · `Responsive Design` · `APIs`
+
+---
+
+### 🏢 Sistema de Registro de Residentes
+
+Aplicación de escritorio desarrollada con arquitectura moderna.
+
+`C#` · `.NET` · `WPF` · `MVVM` · `Database` · `QR` · `Reports`
 
 ---
 
 ## 🔧 Hardware & IT
 
-![Hardware](https://img.shields.io/badge/PC-Hardware-FF9800?style=flat-square)
-![Electronics](https://img.shields.io/badge/Electronics-Diagnostics-E91E63?style=flat-square)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Windows](https://img.shields.io/badge/Windows-0078D4?style=flat-square&logo=windows)
+Además del desarrollo de software, tengo experiencia práctica en:
 
-**Hardware Diagnostics · GPU · Motherboards · Storage · Electronics · Networking · CCTV · IT Support**
+![Hardware](https://img.shields.io/badge/PC-HARDWARE-FF9800?style=flat-square)
+![Electronics](https://img.shields.io/badge/ELECTRONICS-E91E63?style=flat-square)
+![Networking](https://img.shields.io/badge/NETWORKING-2196F3?style=flat-square)
+![Support](https://img.shields.io/badge/IT_SUPPORT-00C896?style=flat-square)
 
----
-
-## 📊 GitHub
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Artela22&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Artela22&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
+**Hardware Diagnostics · GPU · Motherboards · RAM · SSD/HDD · Electronics · Networking · CCTV · NVR · IT Support**
 
 ---
 
-<div align="center">
+## 🧠 Áreas de interés
 
-### ⚡ Hardware × Software × AI
-
-**Build it. Diagnose it. Automate it.**
-
-[![GitHub](https://img.shields.io/badge/GitHub-Artela22-181717?style=for-the-badge&logo=github)](https://github.com/Artela22)
-[![Email](https://img.shields.io/badge/Email-Contact-FF4ECD?style=for-the-badge&logo=gmail&logoColor=white)](mailto:valentisp22@gmail.com)
-
-</div>
+```text
+💻 Software Development
+🤖 Artificial Intelligence
+⚙️ Process Automation
+🌐 Web Development
+🔧 Computer Hardware
+⚡ Electronics
+🔐 Cybersecurity
+🖥️ IT Infrastructure
