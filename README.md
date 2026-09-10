@@ -1,7 +1,20 @@
 <div align="center">
 
-  <!-- Header Banner Dynamic GIF/Image -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,10,30,50&height=220&section=header&text=Valent%C3%ADn%20S%C3%A1ez%20Pe%C3%B1a&fontSize=42&fontColor=fff&animation=twinkling&desc=Software%20Developer%20%7C%20AI%2C%20Automation%20%26%20IT%20Systems&descSize=18&descAlignY=70" width="100%" alt="Header Banner" />
+  <!-- Header Banner Nativo (SVG Estable - No depende de servidores externos) -->
+  <svg width="100%" height="160" viewBox="0 0 800 160" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+      <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="100%">
+        <stop offset="0%" style="stop-color:#1f6feb;stop-opacity:1" />
+        <stop offset="50%" style="stop-color:#00d2ff;stop-opacity:1" />
+        <stop offset="100%" style="stop-color:#7928ca;stop-opacity:1" />
+      </linearGradient>
+    </defs>
+    <rect width="100%" height="100%" rx="12" fill="url(#grad)"/>
+    <text x="50%" y="60" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-weight="800" font-size="34" fill="#ffffff" text-anchor="middle">Valentín Sáez Peña</text>
+    <text x="50%" y="100" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-weight="500" font-size="18" fill="#e6edf3" text-anchor="middle">Software Developer | AI, Automation & IT Systems</text>
+  </svg>
+
+  <br/><br/>
 
   <!-- Typing Animation Header -->
   <a href="https://git.io/typing-svg">
