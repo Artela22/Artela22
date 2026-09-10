@@ -1,121 +1,45 @@
 <div align="center">
 
-# 👨‍💻 Valentín Sáez
+  <!-- Header Banner Dynamic GIF/Image -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,10,30,50&height=220&section=header&text=Valent%C3%ADn%20S%C3%A1ez%20Pe%C3%B1a&fontSize=42&fontColor=fff&animation=twinkling&desc=Software%20Developer%20%7C%20AI%2C%20Automation%20%26%20IT%20Systems&descSize=18&descAlignY=70" width="100%" alt="Header Banner" />
 
-### ⚡ Hardware & Software Specialist
+  <!-- Typing Animation Header -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00D2FF&center=true&vCenter=true&width=600&lines=Full+Stack+%26+SaaS+Developer;AI+Agents+%26+Chatbots+Architect;C%23+%2F+.NET+%2B+Node.js+%2B+Python;Cybersecurity+Student+%40+UTP" alt="Typing SVG" />
+  </a>
 
-**Mastering the bridge between Hardware & Software**
+  <br/><br/>
 
-<br>
-
-![Software](https://img.shields.io/badge/SOFTWARE-DEVELOPMENT-6C63FF?style=for-the-badge)
-![Hardware](https://img.shields.io/badge/HARDWARE-DIAGNOSTICS-00B8D9?style=for-the-badge)
-![AI](https://img.shields.io/badge/AI-AUTOMATION-FF4ECD?style=for-the-badge)
-![IT](https://img.shields.io/badge/IT-SUPPORT-00C896?style=for-the-badge)
+  <!-- Social Badges -->
+  <a href="https://linkedin.com">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:valentisp22@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/Artela22">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <img src="https://img.shields.io/badge/Location-Panama_🇵🇦-0052B4?style=for-the-badge" />
 
 </div>
 
----
-
-## 🚀 Sobre mí
-
-Desarrollador y técnico enfocado en la integración de **software, hardware, electrónica e inteligencia artificial**.
-
-Me especializo en crear soluciones tecnológicas completas: desde el diagnóstico de hardware hasta el desarrollo de sistemas empresariales, automatizaciones y herramientas basadas en IA.
-
-> ⚡ **Build it. Diagnose it. Automate it.**
+<br/>
 
 ---
 
-## 💻 Tech Stack
+### 🚀 Sobre Mí
 
-### 👨‍💻 Desarrollo
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C Sharp](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![Java](https://img.shields.io/badge/Java-F89820?style=flat-square)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-
-### 🗄️ Datos & Backend
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-
-### ⚙️ Herramientas
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Windows](https://img.shields.io/badge/Windows-0078D4?style=flat-square&logo=windows&logoColor=white)
-
----
-
-# 🔥 Proyectos destacados
-
-### 🔧 CRM / SaaS para Talleres
-
-Sistema integral para talleres de reparación y centros de servicio técnico.
-
-`Clientes` · `Equipos` · `Tickets` · `Diagnósticos` · `Presupuestos` · `Inventario` · `Pagos` · `Reportes`
-
----
-
-### 🧾 Sistema de Facturación Electrónica
-
-Plataforma empresarial con punto de venta y gestión fiscal.
-
-`POS` · `Facturación` · `Cotizaciones` · `Pagos` · `Inventario` · `Sucursales` · `APIs` · `Reportes`
-
----
-
-### 🤖 Bots Inteligentes & Agentes de IA
-
-Automatización de procesos mediante inteligencia artificial y sistemas conversacionales.
-
-`AI Agents` · `Chatbots` · `Rasa` · `Python` · `FastAPI` · `APIs` · `PostgreSQL` · `Redis`
-
----
-
-### 🌐 Web Development
-
-Diseño y desarrollo de soluciones web modernas.
-
-`Websites` · `Landing Pages` · `Dashboards` · `Web Apps` · `Responsive Design` · `APIs`
-
----
-
-### 🏢 Sistema de Registro de Residentes
-
-Aplicación de escritorio desarrollada con arquitectura moderna.
-
-`C#` · `.NET` · `WPF` · `MVVM` · `Database` · `QR` · `Reports`
-
----
-
-## 🔧 Hardware & IT
-
-Además del desarrollo de software, tengo experiencia práctica en:
-
-![Hardware](https://img.shields.io/badge/PC-HARDWARE-FF9800?style=flat-square)
-![Electronics](https://img.shields.io/badge/ELECTRONICS-E91E63?style=flat-square)
-![Networking](https://img.shields.io/badge/NETWORKING-2196F3?style=flat-square)
-![Support](https://img.shields.io/badge/IT_SUPPORT-00C896?style=flat-square)
-
-**Hardware Diagnostics · GPU · Motherboards · RAM · SSD/HDD · Electronics · Networking · CCTV · NVR · IT Support**
-
----
-
-## 🧠 Áreas de interés
-
-```text
-💻 Software Development
-🤖 Artificial Intelligence
-⚙️ Process Automation
-🌐 Web Development
-🔧 Computer Hardware
-⚡ Electronics
-🔐 Cybersecurity
-🖥️ IT Infrastructure
+```typescript
+const valentin = {
+  code: ["TypeScript", "C#", "Python", "JavaScript", "SQL"],
+  technologies: {
+    frontend: ["React", "Vite", "Tailwind CSS", "WPF / MVVM"],
+    backend: ["NestJS", "Node.js", "FastAPI", ".NET Core"],
+    databases: ["PostgreSQL", "SQL Server", "Redis", "Prisma ORM"],
+    devopsAndAI: ["Docker", "Docker Compose", "Rasa", "GitHub Actions"]
+  },
+  education: "Estudiante de Ciberseguridad & Desarrollo de Software @ UTP",
+  hardwareSkills: ["Diagnóstico de GPU/RAM", "Redes & CCTV", "Mantenimiento Electrónico"],
+  currentFocus: "Desarrollando soluciones SaaS, facturación electrónica y agentes de IA autónomos"
+};
